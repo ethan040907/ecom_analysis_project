@@ -105,11 +105,8 @@ The analysis produced the following output tables:
 
 ## Dashboard Preview
 
-### Executive Overview
-
 ![Executive Overview](powerbi/executive_overview.png)
 
-### Payment, Shipping & Delivery Status Overview
 
 ![Payment, Shipping & Delivery Status Overview](powerbi/payment_shipping_&_delivery_status_overview.png)
 ## Key Findings
