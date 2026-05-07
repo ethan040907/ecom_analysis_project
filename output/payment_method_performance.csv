@@ -1,0 +1,5 @@
+payment_type,payment_record_count,order_count,total_payment_value,average_payment_value
+credit_card,65814,65814,17512576.65,266.09
+wallet,17302,17302,4642341.69,268.31
+voucher,4911,4911,1523103.47,310.14
+debit_card,1289,1289,317363.76,246.21
